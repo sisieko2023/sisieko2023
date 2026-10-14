@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm a Cloud Computing Learner! 👋
 
-<!--
-**sisieko2023/sisieko2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm beginning my journey into cloud computing and learning the technologies and skills needed to build, deploy, and manage applications in the cloud.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Cloud computing fundamentals
+- Linux
+- Networking
+- Git and GitHub
+- Cloud infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Build practical cloud projects.
+- Develop my technical skills.
+- Become proficient in cloud technologies.
+
+## Connect With Me
+- GitHub: https://github.com/sisieko2023
